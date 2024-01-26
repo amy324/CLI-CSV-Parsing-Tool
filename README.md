@@ -54,6 +54,15 @@ git clone https://github.com/your-username/CLI-Data-Analysis-Tool.git
  ```
 cd CLI-Data-Analysis-Tool
 ```
+Install all dependecies.
+
+Create a `.env` file. Set up a `PostgreSQL` database and include the details in the .env file formatted as follows:
+```
+POSTGRES_USER=
+POSTGRES_PASSWORD=
+POSTGRES_DB=
+
+```
 Build the CLI tool
 ```
 go build -o CLI-Data-Analysis-Tool .
@@ -65,7 +74,7 @@ go build -o CLI-Data-Analysis-Tool .
 ```
 ## Commands
 
--   
+
 -   **connectdb**: Connect to PostgreSQL database.
 -   **parsecsv**: Parse CSV file.
 
@@ -90,7 +99,7 @@ CSV data processed and saved to PostgreSQL.
 
 ![Postgres Results](image/db-demo.png)
 
-A screenshot showing the CSV contents have been added to the Postgres database (shown here via [Beekeeper SQL management tool](https://www.beekeeperstudio.io/get)
+A screenshot showing the CSV contents have been added to the Postgres database shown here via [Beekeeper SQL management tool](https://www.beekeeperstudio.io/get)
 
  
 ## Contributing
