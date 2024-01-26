@@ -54,7 +54,7 @@ git clone https://github.com/amy324/CLI-CSV-Parsing-Tool.git
  ```
 cd CLI-CSV-Parsing-Tool
 ```
-Install all dependecies.
+Install all dependencies.
 
 Create a `.env` file. Set up a `PostgreSQL` database and include the details in the .env file formatted as follows:
 ```
