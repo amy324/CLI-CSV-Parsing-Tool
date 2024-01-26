@@ -1,4 +1,4 @@
-# CLI Data Analysis Tool - CSV Parsing 
+# CSV Parsing Tool
 
 This is step one of a robust Command-Line Interface (CLI) tool meticulously engineered for seamless data-driven business analysis. Designed and implemented by a golang backend engineer, this tool focuses on providing powerful backend capabilities, including CSV data parsing, PostgreSQL integration, and the groundwork for advanced analytics processing. 
 
@@ -48,11 +48,11 @@ Clone the repository
 ```
 bash
 
-git clone https://github.com/your-username/CLI-Data-Analysis-Tool.git
+git clone https://github.com/amy324/CLI-CSV-Parsing-Tool.git
 ```
  Navigate to the project directory
  ```
-cd CLI-Data-Analysis-Tool
+cd CLI-CSV-Parsing-Too
 ```
 Install all dependecies.
 
@@ -65,12 +65,12 @@ POSTGRES_DB=
 ```
 Build the CLI tool
 ```
-go build -o CLI-Data-Analysis-Tool .
+go build -o CLI-CSV-Parsing-Too .
 ```
 
  Run the tool
  ```
-./CLI-Data-Analysis-Tool [command] `
+./CLI-CSV-Parsing-Too [command] `
 ```
 ## Commands
 
