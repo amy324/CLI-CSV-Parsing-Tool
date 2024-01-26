@@ -52,7 +52,7 @@ git clone https://github.com/amy324/CLI-CSV-Parsing-Tool.git
 ```
  Navigate to the project directory
  ```
-cd CLI-CSV-Parsing-Too
+cd CLI-CSV-Parsing-Tool
 ```
 Install all dependecies.
 
