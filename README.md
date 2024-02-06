@@ -31,12 +31,15 @@ For demonstrative purpose, this program comes with a test csv which includes the
 
 ## Upcoming Features
 
-Stay tuned for the next version of this tool, which will introduce advanced features such as:
+Stay tuned for the next version of this tool, which will serve as a fully customizable framework and will introduce advanced features such as:
 
 -   **Python Script Integration**: Seamlessly incorporate Python scripts for specialized statistical analysis tasks.
 -   **Enhanced Analytics Processing**: Elevate your backend-driven data analysis capabilities to the next level.
 
 I have posted this version in the meantime as it can serve as a standalone tool in its own right.
+
+# UPDATE:
+Click here to view the completed  [CLI Framework for Advanced Analysis](https://github.com/amy324/CLI-Framework-for-Advanced-Analysis.git)
 
 ## Usage
 
