@@ -38,7 +38,7 @@ Stay tuned for the next version of this tool, which will serve as a fully custom
 
 I have posted this version in the meantime as it can serve as a standalone tool in its own right.
 
-# UPDATE:
+### UPDATE:
 Click here to view the completed  [CLI Framework for Advanced Analysis](https://github.com/amy324/CLI-Framework-for-Advanced-Analysis.git)
 
 ## Usage
